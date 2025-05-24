@@ -14,11 +14,13 @@ This Python script syncs your liked Spotify songs to a YouTube playlist by searc
 2. Create a `config.py` file with your API credentials (see `config_example.py`)
 3. Install dependencies:
 
-```bash
-pip install -r requirements.txt
-
-
 ## Contact
 
 Contact me for any enquiry  
 www.linkedin.com/in/daksh-shinde-93a3412b9
+
+```bash
+pip install -r requirements.txt
+
+
+
