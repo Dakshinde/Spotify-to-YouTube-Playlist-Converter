@@ -114,7 +114,7 @@ def add_video_to_playlist(video_id, video_title, playlist_id):
         print(f"⚠️ Error adding video {video_id}: {e}")
 
 # 🔹 Process Songs & Resume from Last Added Track
-playlist_id = "PLt5p2ajYSAEd9FEQv3KreJ-O-K4Ogft-0"
+playlist_id = "ADD YOUR PLAYLIST ID"
 last_track_name = get_last_added_track()
 found_last_track = False if last_track_name else True  # If no file, start fresh
 
