@@ -17,5 +17,8 @@ This Python script syncs your liked Spotify songs to a YouTube playlist by searc
 ```bash
 pip install -r requirements.txt
 
+
+## Contact
+
 Contact me for any enquiry  
 www.linkedin.com/in/daksh-shinde-93a3412b9
