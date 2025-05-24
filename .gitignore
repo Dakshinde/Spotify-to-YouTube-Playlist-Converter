@@ -1,0 +1,9 @@
+# Ignore config with real API keys
+config.py
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folder
+venv/
